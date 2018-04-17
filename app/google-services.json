@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1091274870293",
+    "firebase_url": "https://mealtime-579d1.firebaseio.com",
+    "project_id": "mealtime-579d1",
+    "storage_bucket": "mealtime-579d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091274870293:android:5d21bb9978d261a4",
+        "android_client_info": {
+          "package_name": "com.cones.atul.mealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091274870293-c4fdt3s4qimk2orcjt8gacg848krsnai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cones.atul.mealtime",
+            "certificate_hash": "af61b448dd30ecaa46fa49c5c2bbcd6862008508"
+          }
+        },
+        {
+          "client_id": "1091274870293-nll15ad570i5q675ttelh11a4vil0jea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGF1VtmJDoZEhLyyvmfV9bjYG8BDqW4PU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091274870293-nll15ad570i5q675ttelh11a4vil0jea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

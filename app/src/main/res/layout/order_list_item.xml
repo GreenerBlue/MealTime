@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/add_meal_name"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="3"
+        android:gravity="center"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/add_meal_down"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        style="?android:attr/borderlessButtonStyle"
+        android:text="@string/down_arrow"
+        android:textSize="25sp"/>
+
+    <EditText
+        android:id="@+id/add_meal_qty"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:fontFamily="sans-serif-condensed"
+        android:gravity="center"
+        android:inputType="number"
+        android:maxLength="2"
+        android:text="0"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/add_meal_up"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        style="?android:attr/borderlessButtonStyle"
+        android:textSize="25sp"
+        android:text="@string/up_arrow" />
+</LinearLayout>

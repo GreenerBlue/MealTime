@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/splashColor"/>
+    <item android:top="10dp" android:bottom="10dp" android:left="10dp" android:right="10dp">
+        <bitmap
+            android:antialias="true"
+            android:tileMode="repeat"
+            android:src="@android:drawable/ic_partial_secure"/>
+    </item>
+
+    <item android:gravity="center">
+        <bitmap android:src="@android:drawable/ic_secure"/>
+    </item>
+
+</layer-list>

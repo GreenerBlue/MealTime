@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MealTime</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="options">Options</string>
+    <string name="order_meal">Order Meal</string>
+    <string name="check">Check Menu card</string>
+    <string name="down_arrow">↓</string>
+    <string name="up_arrow">↑</string>
+    <string name="track">Track order</string>
+    <string-array name="tables">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>
